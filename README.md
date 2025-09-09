@@ -107,7 +107,7 @@ Applied Pivot Tables to summarize data across key dimensions:
 
 * Formatted the dashboard for readability (consistent fonts, icons, and a dark theme layout).
 
-<img width="1220" height="595" alt="Screenshot 2025-08-20 212618" src="https://github.com/user-attachments/assets/282b5e7e-73e8-4180-8b6b-3bf62beeeaa1" />
+<img width="1220" height="595" alt="Screenshot 2025-08-20 212618" src="https://github.com/Femi-Valor/Nigeria-Car-Market/blob/main/Screenshot%202025-09-09%20170547.png" />
 
 
 ### Insights Deep Dive
